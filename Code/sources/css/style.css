@@ -1,7 +1,11 @@
 body {
   padding-left: 100px;
   padding-right: 100px;
-  padding-top: 100px;
+}
+
+.Floors {
+  padding-top: 250px;
+  padding-right: 300px;
 }
 
 .cls-1 {
