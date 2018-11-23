@@ -76,5 +76,65 @@ Alexandre Junod
          <p>IT Mystery</p>
          <p>Venez résoudre des énigmes parlant de methodologie et d'électricité avec la loi d'Ohm !<br><p> Nous répondrons aussi à vos questions sur la bureautique</p>
       </div>
+
+      <!-- Etage 2 -------------------------------------------------------------->
+       <div class="Default C213Text hidden">
+         <h2>C213</h2>
+         <p>Inception</p>
+         <p>Venez décoder des messages informatique cachés dans les entrailles d'un ordinateur et découvrir ce qui se cache derrière se fameux mot de passe</p>
+      </div>
+       <div class="Default C214Text hidden">
+         <h2>C214</h2>
+         <p>Deuxième année informaticien</p>
+         <p>Présentations et démos de projet personnel et de LabView</p>
+      </div>
+       <div class="Default C232Text hidden">
+         <h2>C232</h2>
+         <p>Troisième année informaticien</p>
+         <p>Montage et démontage de composant informatique</p>
+         <p>Just Dance à la façon CPNV !</p>
+         <p>Sceynettes et demo visuel sur des langages de programations ! </p>
+      </div>
+        <div class="Default C235Text hidden">
+         <h2>C235</h2>
+         <p>Troisième année informaticien</p>
+         <p>Montage et démontage de composant informatique</p>
+         <p>Just Dance à la façon CPNV !</p>
+         <p>Sceynettes et demo visuel sur des langages de programations ! </p>
+      </div>
+           <div class="Default C231Text hidden">
+         <h2>C231</h2>
+         <p>Présentation de la formation par le doyen</p>
+      </div>
+
+
+      <!-- Etage 3 -------------------------------------------------------------->
+       <div class="Default C321Text hidden">
+         <h2>C321</h2>
+         <p>Troisième année informaticien</p>
+         <p>Présentations et demo de domotique et de projets personel !</p>
+      </div>
+      <div class="Default C321Text hidden">
+         <h2>C323</h2>
+         <p>Troisième année informaticien</p>
+         <p>Présentations et demo d'un petit robot qui traversera un parcour grâce à ses capteurs !</p>
+      </div>
+      <div class="Default C321Text hidden">
+         <h2>C323</h2>
+         <p>Troisième année informaticien</p>
+         <p>Présentations et demo d'un petit robot qui traversera un parcour grâce à ses capteurs !</p>
+      </div>
+       <div class="Default C332Text hidden">
+         <h2>C332</h2>
+         <p>Technicien développement première année</p>
+         <p>Présentations de projet, de la formation, et d'un plan des portes ouvertes ! </p>
+      </div>
+      <div class="Default C331Text hidden">
+         <h2>C331</h2>
+         <p>Technicien système première année</p>
+         <p>Présentations de projet et de la formation</p>
+         <p>Attelier dépanage réseau</p>
+         <p>Hacker coca-cola avec un jeu intéressant et innovent !</p>
+      </div>
    </body>
 </html>
