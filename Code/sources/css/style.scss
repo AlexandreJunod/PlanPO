@@ -4,9 +4,26 @@ body
    padding-right: 100px;
 }
 
+.FloorSelector
+{
+   display: flex;
+   flex-wrap: nowrap;
+   justify-content: center;
+
+   .Square
+   {
+      background-color: #ccc9c9;
+      width: 50px;
+      height: 50px;
+      margin: 50px;
+   }
+}
+
 .Floors
 {
-   padding-top: 250px;
+   width: 1600px;
+   height: 500px;
+   position: absolute;
    padding-right: 300px;
 }
 
@@ -21,7 +38,12 @@ body
 
 #C112:hover, #C111:hover, #Distributeur:hover, #C121:hover, #C122:hover, #C124:hover, #C126:hover, #EntreeP:hover, #EntreeDroite:hover, #C131:hover, #C133:hover,  #C237:hover, #C235:hover, #C233:hover, #C231:hover, #C227:hover, #C225:hover, #C223:hover, #C221:hover, #C215:hover, #C213:hover, #C211:hover, #C214:hover, #C224:hover, #C232:hover, #C234:hover, #C236:hover, #Escaliers1:hover, #Escaliers2:hover, #C311:hover, #C313:hover, #C315:hover, #C321:hover, #C323:hover, #C332:hover, #C331:hover, #C333:hover, #C335:hover, #C336:hover
 {
-   fill:#009933;
+   fill: #009933;
+}
+
+.Square:hover
+{
+   background-color: #009933;
 }
 
 .selectedItem
