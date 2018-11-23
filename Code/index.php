@@ -33,11 +33,11 @@ Alexandre Junod
       <!-- Divs who are link with the classes -->
       <div class="Default C112Text hidden">
          <h2>C112</h2>
-         <p>Bonjour, nous présontons pacman prog</p>
+         <p></p>
       </div>
       <div class="Default C111Text hidden">
          <h2>C111</h2>
-         <p>Bonjour, nous présontons une bataille navale en C++</p>
+         <p></p>
       </div>
       <div class="Default DistributeurText hidden">
          <h2>Distributeur</h2>
@@ -45,16 +45,15 @@ Alexandre Junod
       </div>
       <div class="Default C121Text hidden">
          <h2>C121</h2>
-         <p>Tu as faim ? Viens chez nous !</p>
+         <p>Assistez à un combat de robots tout en faisant une pause sucrée et salée</p>
       </div>
       <div class="Default C122Text hidden">
          <h2>C122</h2>
-         <p>Tu as faim ? Viens chez nous !<p>
-         <p>Nous avons un coin tranquille a l'abri des regards et des prises pour charger ton smartphone</p>
+         <p></p>
       </div>
       <div class="Default C124Text hidden">
          <h2>C124</h2>
-         <p>Nous vendons des hot-dogs, hamburgers et croque-monsieurs</p>
+         <p></p>
       </div>
       <div class="Default C126Text hidden">
          <h2>C126</h2>
@@ -70,12 +69,12 @@ Alexandre Junod
       </div>
       <div class="Default C131Text hidden">
          <h2>C131</h2>
-         <p>Bonjour, nous présentons la recherchev sous excel</p>
+         <p></p>
       </div>
       <div class="Default C133Text hidden">
          <h2>C133</h2>
-         <p>Venez apprendre a compter en binaire</p>
-         <p>Vous saurez enfin quels sont les 10 types de personnes sur terre</p>
+         <p>IT Mystery</p>
+         <p>Venez résoudre des énigmes parlant de methodologie et d'électricité avec la loi d'Ohm !<br><p> Nous répondrons aussi à vos questions sur la bureautique</p>
       </div>
    </body>
 </html>
