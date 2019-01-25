@@ -3,9 +3,29 @@ body {
   padding-right: 100px;
 }
 
+.FloorSelector {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  flex-direction: column;
+  float: right;
+}
+
+.FloorSelector .Square {
+  background-color: #ccc9c9;
+  border: 3px;
+  border-style: solid;
+  width: 70px;
+  height: 70px;
+  margin-top: 60px;
+  font-size: 35px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 70px;
+}
+
 .Floors {
-  padding-top: 250px;
-  padding-right: 300px;
+  padding-right: 150px;
 }
 
 .cls-1 {
@@ -19,8 +39,16 @@ body {
   fill: #009933;
 }
 
+.Square:hover {
+  background-color: #009933;
+}
+
 .selectedItem {
   fill: #009933;
+}
+
+.selectedDiv {
+  background-color: #009933 !important;
 }
 
 .Default {
@@ -31,4 +59,9 @@ body {
 
 .hidden {
   visibility: hidden;
+  display: none;
+}
+
+.Container {
+  padding-top: 100px;
 }

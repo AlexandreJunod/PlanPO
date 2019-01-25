@@ -9,9 +9,19 @@ $(document).ready(function () {
       $(this).addClass('selectedItem'); //Select the item clicked
 
       var idSelected = $(this).attr('id'); //Store the id of the item clicked in idSelected
-      var idFinal = '.'+idSelected + "Text" //Add "Text" after the id selected to select the right label to show
+      var idFinal = '.'+idSelected + "Text"; //Add "Text" after the id selected to select the right label to show
       $(idFinal).removeClass('hidden'); //Show the label who corresponds on the item clicked
       //$(this+Text).removeClass('hidden');
       //$(this).attr('id') //Gives the id of the attribute clicked
    })
+
+   $('.Square').click(function(){
+      var floorSelected = '.Floor' + $(this).attr('id');
+      var idSelector = '#' + $(this).attr('id');
+      console.log(idSelector);
+      $('.DefaultFloor').addClass('hidden');
+      $(floorSelected).removeClass('hidden');
+      $('.Square').removeClass('selectedDiv');
+      $(idSelector).addClass('selectedDiv');
+   });
 });
